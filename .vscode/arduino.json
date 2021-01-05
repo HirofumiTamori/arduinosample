@@ -1,0 +1,6 @@
+{
+    "sketch": "grove-sample4-button-delay.ino",
+    "board": "Seeeduino:samd:seeed_XIAO_m0",
+    "configuration": "usbstack=arduino,debug=off",
+    "port": "COM10"
+}
